@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">AutoWifi4YMU</string>
+    <string name="app_name">陽明無線網路自動認證</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
 
